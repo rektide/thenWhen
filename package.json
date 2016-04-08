@@ -1,0 +1,19 @@
+{
+	"name": "thenwhen",
+	"version": "1.0.0",
+	"description": "Promise#then gated on an auxiliary condition",
+	"main": "thenWhen.js",
+	"scripts": {
+		"test": "node .test"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://archive.voodoowarez.com/thenWhen"
+	},
+	"keywords": ["promise", "gated"],
+	"author": "rektide de la faye",
+	"license": "X",
+	"devDependencies": {
+		"tape": "^4.5.1"
+	}
+}
